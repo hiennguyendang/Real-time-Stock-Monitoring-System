@@ -1,10 +1,6 @@
-# Assignment 2: Real-time Stock Monitoring System
+# Real-time Stock Monitoring System
 
-## Course Information
-
--   **Course**: Advanced Programming (CO2039)
--   **Project**: Real-time Stock Monitoring System
--   **Objective**: Track stock prices in real-time and receive alerts based on predefined conditions.
+**Objective**: Track stock prices in real-time and receive alerts based on predefined conditions.
 
 ---
 
@@ -55,16 +51,16 @@ Initial Code/
  │   │   │   ├── Main.java
  │   │   │   ├── Stock.java
  │   │   │   ├── StockPrice.java
- │   │   │   ├── StockFeeder.java               ❌ Students must implement
+ │   │   │   ├── StockFeeder.java               
  │   │   │   ├── StockViewer.java
- │   │   │   ├── StockAlertView.java            ❌ Students must implement
- │   │   │   ├── StockRealtimePriceView.java    ❌ Students must implement
+ │   │   │   ├── StockAlertView.java           
+ │   │   │   ├── StockRealtimePriceView.java  
  │   │   │   ├── StockTickerView.java
  │   │   │   ├── Logger.java
  │   │   │   ├── PriceFetchManager.java
  │   │   │   ├── PriceFetcher.java
  │   │   │   ├── HosePriceFetchLib.java
- │   │   │   ├── HoseAdapter.java               ❌ Students must implement
+ │   │   │   ├── HoseAdapter.java
  │   │   │   ├── HoseData.java
  │   │   │   ├── HnxPriceFetchLib.java
  │   │   │   ├── HnxAdapter.java
@@ -90,9 +86,9 @@ Initial Code/
 
 ---
 
-## Student Tasks
+## Tasks
 
-Students must implement the following classes:
+Implement the following classes:
 
 -   `HoseAdapter.java`
     -   Fetches stock data from `HosePriceFetchLib`.
